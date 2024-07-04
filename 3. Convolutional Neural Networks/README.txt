@@ -1,0 +1,1 @@
+The data folder is same as from the second lesson. You can copy that folder and paste it here.
